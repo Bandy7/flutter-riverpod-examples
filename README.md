@@ -20,7 +20,7 @@ This repository contains practical Flutter projects using [Riverpod](https://riv
 ## 📂 Folder Structure
 
 lib/
-│
+|
 ├── examples/
 │ ├── example1.dart # Provider example
 │ ├── example2.dart # StateNotifierProvider example
