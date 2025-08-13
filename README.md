@@ -20,17 +20,15 @@ This repository contains practical Flutter projects using [Riverpod](https://riv
 ## 📂 Folder Structure
 
 lib/
-|
-├── examples/
-│ ├── example1.dart # Provider example
-│ ├── example2.dart # StateNotifierProvider example
-│ ├── example3.dart # FutureProvider example
-│ ├── example4.dart # StreamProvider example
-│ ├── example5.dart # ChangeNotifierProvider example
-│ ├── example6.dart # Films app with filtering
-│
-└── main.dart # Entry point
-
+    ├── examples/
+        ├── example1.dart
+        ├── example2.dart
+        ├── example3.dart
+        ├── example4.dart
+        ├── example5.dart
+        └── example6.dart
+    └── main.dart
+    
 ---
 
 ## 🚀 Getting Started
