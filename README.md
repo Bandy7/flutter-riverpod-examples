@@ -17,20 +17,6 @@ This repository contains practical Flutter projects using [Riverpod](https://riv
 
 ---
 
-## 📂 Folder Structure
-
-lib/
-    ├── examples/
-        ├── example1.dart
-        ├── example2.dart
-        ├── example3.dart
-        ├── example4.dart
-        ├── example5.dart
-        └── example6.dart
-    └── main.dart
-    
----
-
 ## 🚀 Getting Started
 
 
